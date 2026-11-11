@@ -1,0 +1,175 @@
+{
+  "version": "2026-11-12",
+  "attribution": "© OpenStreetMap contributors (ODbL 1.0)",
+  "resorts": [
+    {
+      "id": "yongpyong",
+      "name": "용평리조트",
+      "bbox": [
+        128.661891,
+        37.611557,
+        128.690993,
+        37.6565
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/yongpyong.geojson",
+      "pistes": 41,
+      "lifts": 20
+    },
+    {
+      "id": "high1",
+      "name": "하이원리조트",
+      "bbox": [
+        128.816824,
+        37.174229,
+        128.842332,
+        37.207993
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/high1.geojson",
+      "pistes": 20,
+      "lifts": 9
+    },
+    {
+      "id": "phoenix",
+      "name": "휘닉스 평창",
+      "bbox": [
+        128.305511,
+        37.573507,
+        128.326427,
+        37.584599
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/phoenix.geojson",
+      "pistes": 23,
+      "lifts": 7
+    },
+    {
+      "id": "alpensia",
+      "name": "알펜시아",
+      "bbox": [
+        128.668938,
+        37.611908,
+        128.690407,
+        37.667781
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/alpensia.geojson",
+      "pistes": 13,
+      "lifts": 9
+    },
+    {
+      "id": "o2",
+      "name": "오투리조트",
+      "bbox": [
+        128.92462,
+        37.167459,
+        128.947988,
+        37.179453
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/o2.geojson",
+      "pistes": 13,
+      "lifts": 3
+    },
+    {
+      "id": "wellihilli",
+      "name": "웰리힐리파크",
+      "bbox": [
+        128.239125,
+        37.479513,
+        128.254132,
+        37.490906
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/wellihilli.geojson",
+      "pistes": 19,
+      "lifts": 9
+    },
+    {
+      "id": "vivaldi",
+      "name": "비발디파크",
+      "bbox": [
+        127.679071,
+        37.637234,
+        127.696277,
+        37.646914
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/vivaldi.geojson",
+      "pistes": 14,
+      "lifts": 9
+    },
+    {
+      "id": "elysian",
+      "name": "엘리시안 강촌",
+      "bbox": [
+        127.582736,
+        37.814194,
+        127.591527,
+        37.821216
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/elysian.geojson",
+      "pistes": 10,
+      "lifts": 6
+    },
+    {
+      "id": "konjiam",
+      "name": "곤지암리조트",
+      "bbox": [
+        127.280414,
+        37.328673,
+        127.2925,
+        37.33939
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/konjiam.geojson",
+      "pistes": 9,
+      "lifts": 5
+    },
+    {
+      "id": "jisan",
+      "name": "지산포레스트리조트",
+      "bbox": [
+        127.339155,
+        37.209671,
+        127.347157,
+        37.217766
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/jisan.geojson",
+      "pistes": 9,
+      "lifts": 5
+    },
+    {
+      "id": "yangji",
+      "name": "양지파인리조트",
+      "bbox": [
+        127.29565,
+        37.209901,
+        127.302417,
+        37.214916
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/yangji.geojson",
+      "pistes": 5,
+      "lifts": 4
+    },
+    {
+      "id": "edenvalley",
+      "name": "에덴밸리리조트",
+      "bbox": [
+        128.981251,
+        35.419678,
+        128.988571,
+        35.428398
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/edenvalley.geojson",
+      "pistes": 7,
+      "lifts": 3
+    },
+    {
+      "id": "bearstown",
+      "name": "베어스타운",
+      "bbox": [
+        127.246015,
+        37.792678,
+        127.258757,
+        37.800865
+      ],
+      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/bearstown.geojson",
+      "pistes": 10,
+      "lifts": 8
+    }
+  ]
+}
