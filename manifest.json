@@ -133,19 +133,6 @@
       "lifts": 5
     },
     {
-      "id": "yangji",
-      "name": "양지파인리조트",
-      "bbox": [
-        127.29565,
-        37.209901,
-        127.302417,
-        37.214916
-      ],
-      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/yangji.geojson",
-      "pistes": 5,
-      "lifts": 4
-    },
-    {
       "id": "edenvalley",
       "name": "에덴밸리리조트",
       "bbox": [
@@ -157,19 +144,6 @@
       "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/edenvalley.geojson",
       "pistes": 7,
       "lifts": 3
-    },
-    {
-      "id": "bearstown",
-      "name": "베어스타운",
-      "bbox": [
-        127.246015,
-        37.792678,
-        127.258757,
-        37.800865
-      ],
-      "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/bearstown.geojson",
-      "pistes": 10,
-      "lifts": 8
     }
   ]
 }
