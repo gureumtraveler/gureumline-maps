@@ -9,11 +9,11 @@
         128.661891,
         37.611557,
         128.690993,
-        37.6565
+        37.654595
       ],
       "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/yongpyong.geojson",
-      "pistes": 41,
-      "lifts": 20
+      "pistes": 35,
+      "lifts": 17
     },
     {
       "id": "high1",
@@ -46,13 +46,13 @@
       "name": "알펜시아",
       "bbox": [
         128.668938,
-        37.611908,
-        128.690407,
-        37.667781
+        37.649088,
+        128.676141,
+        37.6565
       ],
       "overlay": "https://raw.githubusercontent.com/gureumtraveler/gureumline-maps/main/resorts/alpensia.geojson",
-      "pistes": 13,
-      "lifts": 9
+      "pistes": 6,
+      "lifts": 3
     },
     {
       "id": "o2",
